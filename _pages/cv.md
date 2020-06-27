@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Certificacions
+Certifications
 ======
 [comment]: <> * Deeplearning.ai, 2020
 [comment]: <>  * Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization  
