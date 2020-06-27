@@ -14,11 +14,11 @@ Certificacions
 [comment]: <> * Deeplearning.ai, 2020
 [comment]: <>  * Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization  
 * Deeplearning.ai, 2020 
-  * IA for Medical Diagnosis (Currently)
+  
   * Neural Networks and Deep Learning 
   <br>
     [See credential](https://www.coursera.org/account/accomplishments/certificate/52FXT8GU6F4T)
-  
+  * Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization (Currently)
 
 * Instituto Potosino de Investigacion Científica y Tecnológica IPICYT, 2017
   * School of applied mathematics and Control EMAC 
