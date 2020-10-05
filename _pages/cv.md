@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: 
+title:
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -12,16 +12,20 @@ redirect_from:
 Certifications
 ======
 [comment]: <> * Deeplearning.ai, 2020
-[comment]: <>  * Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization  
-* Deeplearning.ai, 2020 
-  
-  * Neural Networks and Deep Learning 
+
+* Deeplearning.ai, 2020
+
+  * Neural Networks and Deep Learning
   <br>
     [See credential](https://www.coursera.org/account/accomplishments/certificate/52FXT8GU6F4T)
-  * Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization (Currently)
+
+* Dassault Systèmes, 2020
+  * Mechanical Design Associate
+  <br>
+    [See credential](https://drive.google.com/file/d/1fdUMZUOu6QnYzeFivGitVDxQiuGnXzNA/view)
 
 * Instituto Potosino de Investigacion Científica y Tecnológica IPICYT, 2017
-  * School of applied mathematics and Control EMAC 
+  * School of applied mathematics and Control EMAC
   <br>
     [See credential](https://drive.google.com/file/d/1K9jGiwx5PDtk24xY-Swqy1H_lOo-19CH/view?usp=sharing)
 
@@ -42,7 +46,7 @@ Awards
   * Recognized as best averages of the Engineering School at ITESM
    <br>
     [See Certificate](https://drive.google.com/file/d/1j_ZtZbsL4hKqrI18YKneqlioaPsMQM1I/view?usp=sharing)
-  
+
 
 * Engineering Expo - ITESM, 2020
   * Third place in Engineering Expo in Mechatronics Enginerring with an AGV Project
@@ -54,6 +58,3 @@ Awards
   * Be in the fourth place in a Robot Competition with a robot sumo
   <br>
     [See Certificate](https://drive.google.com/file/d/10EbA6KWQrnTasdRReoB_h68utzTfdlXi/view?usp=sharing)
-
-
-  
