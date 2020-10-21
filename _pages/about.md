@@ -18,4 +18,4 @@ I am a person interested in <b>Research</b> and <b>Programming</b> complex syste
 During my time at <b>ITESM</b>, I had the pleasure to <b>Founded</b> and be the <b>President</b>  of the International representative <b>Robotics team</b> <i>Robotec</i> of my University in January 2018. We are an inter-disciplinary robotics team partipating in <b>National and International</b> competitions like Torneo Mexicano de Robotica, RoboRave International. In the same way I was part of the board directos of Students society of Mechatronis  <b> SAIMT</b>  and <b> IEEE</b>  group of my University. Currently I am doing a Research Internship at <b>HP Labs</b>.
  </p>
 
-![pilatus](/images/robotec.jpg)
+![pilatus](/images/robotec.png)
