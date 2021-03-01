@@ -40,11 +40,11 @@ Certifications
 * Centro de Bachillerato Tecnológico Industrial y de Servicios CBTis No. 226, 2017
   * Programming Technician
   <br>
-    [See credential](https://drive.google.com/file/d/1INqoNEQrGBvSglUat29ZdeLOEEslagWK/view)
+    [See credential](https://drive.google.com/file/d/1U6W9Ro9yabelBz-Tzg6Mo72KxvE_OhDr/view)
 * Universidad Complutense de Madrid, 2016
   * Mobile application development
   <br>
-    [See Credential](https://drive.google.com/file/d/1U6W9Ro9yabelBz-Tzg6Mo72KxvE_OhDr/view)
+    [See Credential] (https://drive.google.com/file/d/1INqoNEQrGBvSglUat29ZdeLOEEslagWK/view)
 
 
 Awards
