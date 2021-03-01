@@ -44,7 +44,7 @@ Certifications
 * Universidad Complutense de Madrid, 2016
   * Mobile application development
   <br>
-    [See Credential] (https://drive.google.com/file/d/1INqoNEQrGBvSglUat29ZdeLOEEslagWK/view)
+    [See Credential](https://drive.google.com/file/d/1INqoNEQrGBvSglUat29ZdeLOEEslagWK/view)
 
 
 Awards
