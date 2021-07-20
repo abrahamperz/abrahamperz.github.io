@@ -53,12 +53,6 @@ Awards
 * Best Averages - ITESM, 2020
   * Recognized as best averages of the Engineering School at ITESM
    <br>
-    [See Certificate](https://drive.google.com/file/d/1j_ZtZbsL4hKqrI18YKneqlioaPsMQM1I/view?usp=sharing)
-
-
-* Best Averages - ITESM, 2020
-  * Recognized as best averages of the Engineering School at ITESM
-   <br>
     [See Certificate](https://drive.google.com/file/d/1DT4Mukef8JbOnLG1juzLY0-g6iwxTYZf/view?usp=sharing)
 
 
