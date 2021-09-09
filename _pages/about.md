@@ -11,11 +11,10 @@ redirect_from:
 <p style='text-align: justify;'>
 
 
-I am a Bachelor <b>Mechatronics Engineer</b> student at Instituto Tecnológico y de Estudios Superiores de Monterrey<b> ITESM</b>.
-I am a person interested in <b>Research</b> and <b>Programming</b> complex systems like <b>Robotics</b>, integrating areas such as Control Systems and Computer Vision. More specific, I am interested in developing algorithms using <b>Data structures</b> and <b> Machine Learning </b> in the interplay between <b>Deep Learning</b> and <b>Control Engineering</b>
+I am a bachelor's student in <b>Mechatronics Engineering</b> at Tecnologico de Monterrey in Mexico. My interests focus on <b>researching</b> and <b>programming</b> complex systems like <b>robotics</b>, as well as <b>control systems</b> and <b>computer vision</b>. Regarding myself, I am interested in developing new algorithms, systems, and theories to <b>help empower people and society</b>. All of this using the tools provided by the use of computing, hardware, and robotics science.
 <br><br>
 
-During my time at <b>ITESM</b>, I had the pleasure to <b>Founded</b> and be the <b>President</b>  of the International representative <b>Robotics team</b> <i>Robotec</i> of my University in January 2018. We are an inter-disciplinary robotics team participating in <b>National and International</b> competitions like Torneo Mexicano de Robotica, RoboRave International. In the same way I was part of the board directors of Students society of Mechatronics  <b> SAIMT</b>  and <b> IEEE</b>  group of my University. Currently I am doing a <b>Research Internship</b> at <b>Harvard Medical School</b>.
+During my time at <b>ITESM</b>, I had the pleasure to found and be the president of the <b>International representative Robotics team</b> “Robotec” of ITESM. Robotec is an inter-disciplinary robotics team participating in National and International competitions like the Torneo Mexicano de Robotica, RoboRave International. Moreover, I was part of the board of directors of the Students Society of Mechatronics SAIMT and <b>IEEE</b> group at ITESM. I did a research internship at <b>HP Labs</b>, a Software/Hardware internship at <b>Intel</b> and currentlym I am doing a research internship at <b>Harvard Medical School</b>.
  </p>
 
-![pilatus](/images/robotec.png)
+![pilatus](/images/mit.jpg)
