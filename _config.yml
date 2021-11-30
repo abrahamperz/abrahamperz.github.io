@@ -7,9 +7,9 @@
 
 # Site Settings
 #locale                   : "en-US"
-title                    : "Abraham Pérez "
+title                    : "Jose Abraham Pérez "
 title_separator          : "-"
-name                     : &name "Abraham Pérez "
+name                     : &name "Jose Abraham Pérez "
 description              : &description "personal description"
 url                      : https://abrahamperz.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Abraham Pérez "
   avatar           : "profile.png"
-  bio              : "BS. Mechatronics Student"
-  location         : "Boston, MA"
-  employer         : "Harvard Medical School"
+  bio              : "BS. Mechatronics Engineer"
+  location         : "Guadalajara Mexico"
+  employer         : "Intel"
   pubmed           : 
   university       : "https://tec.mx/es"
   email            : abraham.perez.mar@gmail.com
