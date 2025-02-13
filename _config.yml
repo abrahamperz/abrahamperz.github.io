@@ -81,10 +81,10 @@ analytics:
 # Site Author
 author:
   name             : "Abraham Pérez "
-  avatar           : "profile.png"
-  bio              : "Software Developer ll"
-  location         : "Guadalajara. Mexico"
-  employer         : "Oracle"
+  avatar           : "profile.jpeg"
+  bio              : "Senior Engineer"
+  location         : "Guadalajara, Mexico"
+  employer         : "Insulet"
   pubmed           : 
   university       : "https://tec.mx/es"
   email            : abraham.perez.mar@gmail.com
